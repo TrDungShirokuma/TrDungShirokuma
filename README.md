@@ -20,6 +20,18 @@
   <h3> I'm a student, currently working as a Intern at ShirokumaPower Co., Ltd.</h3>
 </p>
 
+### - Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" style="vertical-align:top; margin:4px" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" style="vertical-align:top; margin:4px" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" style="vertical-align:top; margin:4px" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" style="vertical-align:top; margin:4px" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" style="vertical-align:top; margin:4px" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" style="vertical-align:top; margin:4px" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" style="vertical-align:top; margin:4px" width="90" height="90">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" style="vertical-align:top; margin:4px" width="90" height="90">
+</p>
+
  ### - Me every day
 
 <br />
